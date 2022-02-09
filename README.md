@@ -16,7 +16,7 @@
 </ul>
 
 <ul>
-<li> The repository on <a href="https://github.com/clgravel/optimal_randomness_extraction">randomness extraction</a> is nothing else than having fun to code the idea from Yuval Peres on iterating the von Neumann extractor to reach the Shannon bound.
+<li> The repository on <a href="https://github.com/clgravel/optimal_randomness_extraction">randomness extraction</a> is nothing else than having fun to code the idea from Yuval Peres on iterating the von Neumann extractor to reach the Shannon's bound.
 </li>
 </ul>
 
