@@ -1,4 +1,4 @@
-# Claude Gravel's personal GitHub page
+<h1>Claude Gravel's personal GitHub page</h1>
 
 Here are few things I research in connection with my repositories are:
 
