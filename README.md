@@ -12,6 +12,8 @@
 <ul>
 <li> Properties of families of permutations that are extensions of non-linear small (random or pseudo-random) functions as in this <a href="https://doi.org/10.1142/S0219498823500512">paper</a> and to some extent this <a href="https://doi.org/10.1142/S0219498823500512">paper</a>. 
 </li>
+</ul>
+<ul>
 <li> The repository on <a href="https://github.com/clgravel/optimal_randomness_extraction">randomness extraction</a> is nothing else than having fun to code the idea from Yuval Peres on iterating the von Neumann extractor to reach the Shannon bound.
 </li>
 </ul>
