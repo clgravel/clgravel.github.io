@@ -1,4 +1,4 @@
-<h1><a href="https://clgravel.github.io">Claude Gravel's personal GitHub page</a></h1>
+<h1><a href="https://clgravel.github.io">Claude Gravel's personal webpage</a></h1>
 
 <h2>Research and repositories descriptions</h2>
 
