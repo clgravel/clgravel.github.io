@@ -27,7 +27,7 @@
 <h2>Other</h2>
 
 <ul>
-<li><a href="https://orcid.org/0000-0001-5275-4953">ORCID page</a></li>.
-<li><a href="https://secure.plum.io/en/p/gDfS1KryoVRd0hC-42AARQ">PLUM profile</a></li> describes me quite well.
+<li><a href="https://orcid.org/0000-0001-5275-4953">ORCID page</a></li>
+<li><a href="https://secure.plum.io/en/p/gDfS1KryoVRd0hC-42AARQ">PLUM profile</a> describes me quite well.</li>
 <li><a href="https://github.com/clgravel">To see what I look like</a></li>
 </ul>
