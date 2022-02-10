@@ -1,5 +1,7 @@
 <h1><a href="https://clgravel.github.io">Claude Gravel's personal GitHub page</a></h1>
 
+<h2>Research and repositories descriptions</h2>
+
 <p>Here are few things I research in connection with my repositories are:
 
 <ul>
@@ -21,3 +23,11 @@
 </ul>
 
 </p>
+
+<h2>Other</h2>
+
+<ul>
+<li><a href="https://orcid.org/0000-0001-5275-4953">ORCID page</li>.
+<li><a href="https://secure.plum.io/en/p/gDfS1KryoVRd0hC-42AARQ">PLUM profile</li> describes quite well.
+<li><a href="https://github.com/clgravel">To see what I look like</li>
+</ul>
