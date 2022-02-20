@@ -1,5 +1,5 @@
-
-<html>
+<!--<!DOCTYPE html>-->
+<!--<html>-->
 <head>
 <link rel="stylesheet" href="superstylist.css">
 </head>
@@ -54,4 +54,4 @@ Click <a href="https://github.com/clgravel/linear_extension_of_psr_fcts"><b>here
 <p>Back to <a href="#TOP">top</a></p>
 
 </body>
-</html>
+<!--</html>-->
