@@ -3,9 +3,10 @@ background: #f9f9f9 none repeat scroll 0 0;
 border: 1px solid #aaa;
 display: table;
 font-size: 100%;
+margin-top: 1em;
 margin-bottom: 1em;
 padding: 0px;
-width: 47.5%;
+width: 50.0%;
 }
 .toc_title {
 font-weight: 700;
