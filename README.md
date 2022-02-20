@@ -7,13 +7,13 @@
 
 <h1 id="TOP"><a href="https://clgravel.github.io">Claude Gravel's personal webpage</a></h1>
 
-<div id="toc_container">
+<!--<div id="toc_container">-->
 <p class="toc_title"><b>Topics:</b></p>
 <ul class="toc_list">
 <li><a href="#ITEM1">Research and repositories descriptions</a>
 <li><a href="#ITEM2">About me</a>
 </ul>
-</div>
+<!--</div>-->
 
 <h2 id="ITEM1">Research and repositories descriptions</h2>
 
