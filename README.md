@@ -1,6 +1,21 @@
-<h1><a href="https://clgravel.github.io">Claude Gravel's personal webpage</a></h1>
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="superstylist.css">
+</head>
+<body>
 
-<h2>Research and repositories descriptions</h2>
+<h1 id="TOP"><a href="https://clgravel.github.io">Claude Gravel's personal webpage</a></h1>
+
+<div id="toc_container">
+<p class="toc_title">Topics:</p>
+<ul class="toc_list">
+<li><a href="#ITEM1">Research and repositories descriptions</a>
+<li><a href="#ITEM2">About me</a>
+</ul>
+</div>
+
+<h2 id="ITEM1">Research and repositories descriptions</h2>
 
 <p>Here are few things I research in connection with my repositories are:
 
@@ -28,10 +43,15 @@ Click <a href="https://github.com/clgravel/linear_extension_of_psr_fcts"><b>here
 
 </p>
 
-<h2>Other</h2>
+<h2 id="ITEM2">About me</h2>
 
 <ul>
 <li><a href="https://orcid.org/0000-0001-5275-4953">ORCID page</a></li>
 <li><a href="https://secure.plum.io/en/p/gDfS1KryoVRd0hC-42AARQ">PLUM profile</a> describes me quite well.</li>
-<li><a href="https://github.com/clgravel">To see what I look like</a></li>
+<li><a href="https://github.com/clgravel">To see me</a>, email me, and see my repositories.</li>
 </ul>
+
+<p>Back to <a href="#TOP">top</a></p>
+
+</body>
+</html>
