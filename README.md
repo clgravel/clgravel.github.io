@@ -1,4 +1,4 @@
-<!DOCTYPE md>
+
 <html>
 <head>
 <link rel="stylesheet" href="superstylist.css">
