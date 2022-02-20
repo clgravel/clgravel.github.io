@@ -1,14 +1,14 @@
 <!--<!DOCTYPE html>-->
 <!--<html>-->
-<head>
+<!--<head>
 <link rel="stylesheet" href="superstylist.css">
 </head>
-<body>
+<body>-->
 
 <h1 id="TOP"><a href="https://clgravel.github.io">Claude Gravel's personal webpage</a></h1>
 
 <div id="toc_container">
-<p class="toc_title">Topics:</p>
+<p class="toc_title"><b>Topics:</b></p>
 <ul class="toc_list">
 <li><a href="#ITEM1">Research and repositories descriptions</a>
 <li><a href="#ITEM2">About me</a>
@@ -53,5 +53,5 @@ Click <a href="https://github.com/clgravel/linear_extension_of_psr_fcts"><b>here
 
 <p>Back to <a href="#TOP">top</a></p>
 
-</body>
+<!--</body>-->
 <!--</html>-->
