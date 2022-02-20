@@ -10,12 +10,12 @@
 <div id="toc_container">
 <p class="toc_title"><b>Topics:</b></p>
 <ul class="toc_list">
-<li><a href="#ITEM1">Research and repositories descriptions</a></li>
+<li><a href="#ITEM1">Information on my repositories</a></li>
 <li><a href="#ITEM2">About me</a></li>
 </ul>
 </div>
 
-<h2 id="ITEM1">Research and repositories descriptions</h2>
+<h2 id="ITEM1">Information on my repositories</h2>
 
 <p>Here are few things I research in connection with my repositories are:
 
