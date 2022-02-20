@@ -8,8 +8,9 @@
 <h1 id="TOP"><a href="https://clgravel.github.io">Claude Gravel's personal webpage</a></h1>
 
 <!--<div id="toc_container">-->
-<p class="toc_title"><b>Topics:</b></p>
-<ul class="toc_list">
+<!--<p class="toc_title"><b>Topics:</b></p>-->
+<!--<ul class="toc_list">-->
+<ul>    
 <li><a href="#ITEM1">Research and repositories descriptions</a>
 <li><a href="#ITEM2">About me</a>
 </ul>
