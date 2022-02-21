@@ -1,7 +1,14 @@
 <!--<!DOCTYPE html>-->
 <!--<html>-->
 <head>
-<link rel="stylesheet" href="superstylist.css">
+	<link rel="stylesheet" href="superstylist.css">
+	<title>Claude Gravel</title>
+	<meta charset="UTF-8">	 
+  	<meta name="description" content="personal webpage on github">
+ 	<meta name="keywords" content="mathematician, mathematics, statistics, statistician, computer scientist, quantum computing, cryptography, finite field, C/C++ programmer, Japan, Canada">
+  	<meta name="author" content="Claude Gravel">
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 </head>
 <body>
 
