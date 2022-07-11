@@ -26,7 +26,7 @@
 <ul>
 <li><a href="https://orcid.org/0000-0001-5275-4953">ORCID page</a> for other papers not mentioned above.</li>
 <li><a href="https://secure.plum.io/en/p/gDfS1KryoVRd0hC-42AARQ">PLUM profile</a> for a good and short description of me.</li>
-<li><a href="https://github.com/clgravel">To see me</a>, email me, and see my repositories.</li>
+<li><a href="https://github.com/clgravel">To see me</a>.</li>
 </ul>
 
 <p>Back to <a href="#TOP">top</a></p>
